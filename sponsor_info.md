@@ -1,5 +1,7 @@
 # DevOps DC Meetup Sponsorship Opportunities
 
+Interested? Complete our [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdDOmOscNj5ZmuSoDFdYBzpqiSK63evoZueK_O1UHJenTL8Cw/formResponse) and we'll be in touch.
+
 DevOps DC is a meetup group that includes more than 2,000 local technologists and meets on a monthly basis.  Our meetings typically draw 45-70 people who are interested in sharing and learning about the people, processes, and tools required to build and operate high velocity organizations.
 
 Sponsoring our meetings is a great way to get involved with the local technology community.
@@ -29,14 +31,6 @@ Sponsor beverages for our monthly meetup!  Beverage sponsorship is roughly *$200
 
 Provide us a space for up to 100 participants, and be OK with food and drinks. If you need an attendee list for security, we'll send the RSVP the afternoon of the MeetUp
 
-## Logo Sponsor - one-time
-
-We need a logo. If you're willing to devote a designer to the task, let us know by leaving message at https://www.meetup.com/DevOpsDC/ and we'll respond. We'll pick the sponsor based on prior work by 2017-12-15, and we'd like to have the logo for our first 2018 meetup on 2018-01-16. In return, for four months your company will:
-
-  * be thanked by the MC
-  * have 4 minutes to address the meeting attendees, along with one slide
-  * be thanked on the MeetUp event page
-  * have a one-year listing on the [Meetup Sponsors](https://www.meetup.com/DevOpsDC/sponsors/) page
   
 ## Logistics
 
@@ -44,7 +38,7 @@ One food, one beverage, and one venue sponsorship is available each meeting.
 
 DevOps DC does not share contact information of our attendees with our sponsors.  However, sponsors are more than welcome to ask meeting attendees to share their information.
 
-Please [complete our sponsor details form](https://goo.gl/forms/gM855liUoZAw4q8X2) or contact Victoria Guido [vguido@bstonetech.com](mailto:vguido@bstonetech.com) or Peter Burkholder [@pburkholder](https://twitter.com/pburkholder) to arrange your sponsorship of DevOps DC!
+Please [complete our sponsor details form](https://goo.gl/forms/gM855liUoZAw4q8X2) or contact the organizers at [meetup@devopsdaysdc.org](mailto:meetup@devopsdaysdc.org) to arrange your sponsorship of DevOps DC!
 
 ## Diversity/Inclusion Statement
 
